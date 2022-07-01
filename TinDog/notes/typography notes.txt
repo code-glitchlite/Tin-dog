@@ -1,0 +1,19 @@
+serif fonts:
+they are used to define seriousness, authorative and some old style
+letter head for a legal company or magazine
+four types of serif fonts:
+1. old style: used for older and aged
+2. Transitional: used for middle aged 
+3. Modern: used for modern
+4. slab-serif: typewriter
+
+Moods according to fonts:
+1. Serif: Traditional Stable Respectable
+2. Sans-Serif: Sensible Simple Straightforward (mainly used for body text)
+	a. Humanist typeface, Gill-Sans, Tahona, Verdana: it is highly readable.
+3. Script: Personal Creative Elegant
+4. Display: Friendly Loud Amusing
+5. Modern: Stylish Chic Smart
+
+*NOTE* 
+Always two fonts in one design.	
